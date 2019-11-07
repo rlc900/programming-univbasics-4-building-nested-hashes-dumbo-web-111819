@@ -36,10 +36,18 @@ def monopoly_with_third_tier
 	      :four_pieces => "100"
 	    },
 	    :names => {
-	      
+	      :pennsylvania_railroad => {
+	      },
+	      :reading_railroad => {
+	      },
+	      :b_and_o_railroad => {
+	      },
+	      :shortline => {
+	        
+	        }
+	      }
 	    }
 	  }
-	}
 end
 
 def monopoly_with_fourth_tier
